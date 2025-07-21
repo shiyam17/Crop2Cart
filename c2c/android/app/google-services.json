@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "275363889928",
+    "project_id": "crop2cart-f93ba",
+    "storage_bucket": "crop2cart-f93ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275363889928:android:9b56f52c0d078ff09862bd",
+        "android_client_info": {
+          "package_name": "com.example.c2c"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDktHDDtBEWZ3PpkZEGvcbnvPQWOxiPJs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
